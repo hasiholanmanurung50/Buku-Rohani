@@ -100,6 +100,16 @@
     "tempo": "4/4"
   },
   {
+    "id": 23,
+    "nomor": "PS 321",
+    "judul": "Suka suka",
+    "kategori": "Puji Syukur (PS)",
+    "lirik": "contohnya",
+    "pencipta": "bebas",
+    "nadaDasar": "Do = C",
+    "tempo": "4/4"
+  },
+  {
     "id": 1,
     "nomor": "KJ 001",
     "judul": "Suci, Suci, Suci",
