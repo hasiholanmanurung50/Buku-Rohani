@@ -10,26 +10,6 @@
     "tempo": "4/4 Bersemangat"
   },
   {
-    "id": 8,
-    "nomor": "PKJ 014",
-    "judul": "Kunyanyikan Kasih Setia Tuhan",
-    "kategori": "Pelengkap Kidung Jemaat (PKJ)",
-    "lirik": "1.\nKunyanyikan kasih setia Tuhan selamanya,\nkunyanyikan kasih setia Tuhan selamanya,\nkunyanyikan selamanya kasih setia Tuhan.\nDengan mulutku kuberitakan kasih setia-Mu turun-temurun.\n\nReff:\nKunyanyikan kasih setia Tuhan selamanya,\nkunyanyikan kasih setia Tuhan selamanya!\n\n.",
-    "pencipta": "James H. Fillmore",
-    "nadaDasar": "Do = D",
-    "tempo": "4/4 Lincah"
-  },
-  {
-    "id": 9,
-    "nomor": "PKJ 242",
-    "judul": "Seindah Siang Disinari Terang",
-    "kategori": "Pelengkap Kidung Jemaat (PKJ)",
-    "lirik": "1.\nSeindah siang disinari terang,\ncara Tuhan mengasihiku;\nseindah petang dengan angin sejuk,\ncara Tuhan mengasihiku.\n\nReff:\nTuhanku lembut dan penyayang,\nDia mengasihi diriku.\nWalau dosaku bagaikan kirmizi,\nDia jadikan putih bagai salju.\n\n2.\nSeindah pelangi sehabis hujan,\njanji Tuhan menghibur jiwaku;\nselembut embun membasahi rumput,\nanugerah-Nya menyegarkanku.",
-    "pencipta": "A. Simanjuntak",
-    "nadaDasar": "Do = G",
-    "tempo": "3/4 Mengayun Lembut"
-  },
-  {
     "id": 16,
     "nomor": "POP 004",
     "judul": "Sentuh Hatiku",
@@ -48,36 +28,6 @@
     "pencipta": "Ir. Niko Njotorahardjo",
     "nadaDasar": "Do = F",
     "tempo": "4/4 Penuh Sukacita"
-  },
-  {
-    "id": 18,
-    "nomor": "POP 006",
-    "judul": "Betapa Hatiku Berterima Kasih",
-    "kategori": "Pujian & Penyembahan",
-    "lirik": "1.\nBetapa hatiku berterima kasih, Yesus,\nKau mengasihiku, Kau memilikiku.\nHanya ini, Tuhan, persembahanku:\nSegenap hidupku, jiwa dan ragaku.\n\nReff:\nSebab tak 'kan pernah 'ku miliki,\nharta yang seindah anug'rah-Mu.\nBetapa hatiku bersyukur,\nkarena kasih-Mu nyata di dalam hidupku.",
-    "pencipta": "Robert & Lea Sutanto",
-    "nadaDasar": "Do = D",
-    "tempo": "4/4 Syukur"
-  },
-  {
-    "id": 19,
-    "nomor": "POP 008",
-    "judul": "Mujizat Itu Nyata",
-    "kategori": "Pujian & Penyembahan",
-    "lirik": "1.\nTak terbatas kuasa-Mu, Tuhan,\nsemua dapat Kau lakukan.\nApa yang tak pernah kulihat,\nitu yang Kau sediakan.\n\nReff:\nMujizat itu nyata, bukan dongeng belaka,\nbagi orang yang percaya pada-Nya.\nMujizat itu nyata, Tuhan sanggup memulihkan,\nsegala luka dan beban hidupmu.",
-    "pencipta": "Jonathan Prawira",
-    "nadaDasar": "Do = C",
-    "tempo": "4/4 Iman & Keyakinan"
-  },
-  {
-    "id": 20,
-    "nomor": "POP 013",
-    "judul": "Seperti Rusa Rindu Sungai-Mu",
-    "kategori": "Pujian & Penyembahan",
-    "lirik": "1.\nS'perti rusa rindu sungai-Mu,\njiwaku rindu Engkau.\nKaulah Tuhan hasrat hatiku,\n'ku rindu menyembah-Mu.\n\nReff:\nKaulah kekuatanku dan perisaiku,\nhanya pada-Mu rohku berserah.\nKaulah Tuhan hasrat hatiku,\n'ku rindu menyembah-Mu.\n\n2.\nEmas perak tak ternilai,\ndibanding kasih-Mu Tuhan.\nHanya Engkau penghibur sejati,\npemberi sukacita baka.",
-    "pencipta": "Martin Nystrom (As the Deer)",
-    "nadaDasar": "Do = D",
-    "tempo": "4/4 Damai & Khidmat"
   },
   {
     "id": 21,
