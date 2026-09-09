@@ -90,6 +90,16 @@
     "tempo": "4/4 Teduh & Berpengharapan"
   },
   {
+    "id": 22,
+    "nomor": "PS 100",
+    "judul": "contoh lagu",
+    "kategori": "Puji Syukur",
+    "lirik": "ini adalah co toh lagu",
+    "pencipta": "Tradisional / Anonim",
+    "nadaDasar": "Do = C",
+    "tempo": "4/4"
+  },
+  {
     "id": 1,
     "nomor": "KJ 001",
     "judul": "Suci, Suci, Suci",
